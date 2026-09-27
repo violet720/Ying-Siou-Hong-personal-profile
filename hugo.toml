@@ -1,1 +1,6 @@
+baseURL = "https://violet720.github.io/Ying-Siou-Hong-personal-profile/"
+languageCode = "zh-tw"
+title = "Ying-Siou Hong"
 
+[params]
+description = "Personal profile and portfolio of Ying-Siou Hong."
