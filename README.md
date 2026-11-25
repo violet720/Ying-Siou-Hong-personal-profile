@@ -15,8 +15,6 @@ https://violet720.github.io/Ying-Siou-Hong-personal-profile/
 
 這個網站使用 **Hugo** 架設。
 
-Hugo 是一套 Static Site Generator（靜態網站產生器），主要負責網站內容管理、頁面產生與整體網站建置。
-
 本網站以 Hugo 作為網站架構工具，並透過 HTML、CSS 與 JavaScript 進行版面與互動設計，再使用 GitHub Actions 自動建置並部署至 GitHub Pages。
 
 ## Technologies Used
